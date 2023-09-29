@@ -39,7 +39,8 @@ With a high secured payment gateway, all the users including students and lectur
 * Feedback from customers on their orders can help restaurants improve their offerings. They can also contact customer service for support with any problems.
 
 # Activity Diagram 🔭
-![activity drawio](https://github.com/SE-LAPS/Mobile-App-Development-Project-Front-end/assets/97075043/43b54d2c-dca5-4391-9593-b45dfa0baca4)
+![activity drawio](https://github.com/SE-LAPS/Mobile-App-Development-Project-Back-end/assets/97075043/69938249-a792-4564-b4e9-82b4fbd08573)
+
 
 # Technology Used 🛠️
 The Dine Delish App is developed using the following technologies:
